@@ -1,8 +1,8 @@
 {
-  "Version": "V1.0.0.1",
+  "Version": "1.0.0.1",
   "ChangeLog": "GitHub Pages",
-  "DownloadUrl": "https://WWT01462.github.io/update_package.exe",
+  "DownloadUrl": "https://wwt01462.github.io/update_package.exe",
   "Checksum": "200A1CB5F54B9C21F8F3AA81526C6496FC768E7F6A29EE2BCD113E29EADEAB54",
   "isForceUpdate": false,
-  "MinVersion": "V1.0.0.0"
+  "MinVersion": "1.0.0.0"
 }
