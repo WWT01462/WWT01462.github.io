@@ -1,8 +1,8 @@
 {
   "Version": "V1.0.0.1",
-  "ChangeLog": "GitHub Pages在线更新",
-  "DownloadUrl": "https://WWT01462.github.io/UpdaterTool.exe",
-  "Checksum": "67EEF0FC47BE23104AB18A951ADB503B509FDF6B3F6EC9A09B19BB7C1FEA0469",
+  "ChangeLog": "GitHub Pages",
+  "DownloadUrl": "https://WWT01462.github.io/update_package.exe",
+  "Checksum": "200A1CB5F54B9C21F8F3AA81526C6496FC768E7F6A29EE2BCD113E29EADEAB54",
   "isForceUpdate": false,
   "MinVersion": "V1.0.0.0"
 }
