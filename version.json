@@ -1,7 +1,7 @@
 {
   "Version": "1.0.0.1",
   "ChangeLog": "软件版本由1.0.0.0更新为1.0.0.1 \n 更新内容为：增加软件版本在线更新功能",
-  "DownloadUrl": "https://WWT01462.github.io/Update_package.exe",
+  "DownloadUrl": "https://wwt01462.github.io/Update_package.exe",
   "Checksum": "200A1CB5F54B9C21F8F3AA81526C6496FC768E7F6A29EE2BCD113E29EADEAB54",
   "isForceUpdate": false,
   "MinVersion": "1.0.0.0"
